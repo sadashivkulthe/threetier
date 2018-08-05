@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: ""
+          image: "sadashivkulthe/synthreetierbackend"
           ports:
             - name: http
               containerPort: 80
